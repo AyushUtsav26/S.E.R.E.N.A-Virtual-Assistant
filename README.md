@@ -1,2 +1,2 @@
-# S.E.R.E.N.E-A-Virtual-Assistant
+# S.E.R.E.N.A-Virtual-Assistant
 Virtual AI assistant 
