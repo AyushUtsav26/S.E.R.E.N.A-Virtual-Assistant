@@ -3,5 +3,5 @@ Virtual AI assistant
 
 ### Software used
 #### 1. Visual studio code [https://code.visualstudio.com/Download]
-#### 2. Python
+#### 2. Python [https://www.python.org/downloads/]
 #### 3. QT Designer
